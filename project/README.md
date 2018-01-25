@@ -1,1 +1,1 @@
-Serching video on youtube by using geolocation data
+Searching videos on youtube via using geolocation data
